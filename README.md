@@ -1,6 +1,6 @@
 # 블로그
 
-## database
+## Database
 - [MySQL DBA를 위한](https://mysqldba.tistory.com/)
 
 
