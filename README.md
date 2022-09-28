@@ -1,3 +1,5 @@
+# 블로그
+
 ## database
 - [MySQL DBA를 위한](https://mysqldba.tistory.com/)
 
@@ -8,5 +10,12 @@
 
 
 
-# 좋은 글
+# 좋은 글 혹은 자료
+
+## Database
+### MongoDB
 - [Handling Slow Queries in MongoDB - Part 1: Investigation](https://rockset.com/blog/handling-slow-queries-in-mongodb-part-1-investigation/)
+
+## Language
+### Java
+- [자바의 메모리 관리 방법! 가비지 컬렉션 (Garbage Collection) ](https://www.youtube.com/watch?v=jXF4qbZQnBc)
