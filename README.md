@@ -13,8 +13,12 @@
 # 좋은 글 혹은 자료
 
 ## Database
+
 ### MongoDB
 - [Handling Slow Queries in MongoDB - Part 1: Investigation](https://rockset.com/blog/handling-slow-queries-in-mongodb-part-1-investigation/)
+
+### index
+- [B+Tree Insertions](https://www.youtube.com/watch?v=h6Mw7_S4ai0&list=PLsEFMZUL5KsOqKHhxquVleVkM9LFLFSo0&index=3)
 
 ## Language
 ### Java
