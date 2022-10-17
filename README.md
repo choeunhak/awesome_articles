@@ -37,3 +37,9 @@
 
 ### Kafka
 - [How to Choose the Number of Topics/Partitions in a Kafka Cluster?](https://www.confluent.io/blog/how-choose-number-topics-partitions-kafka-cluster/)
+
+
+## Backend
+
+### Ruby on Rails
+- [ActiveRecord - Part 1: N+1 Queries Problem](https://www.netguru.com/blog/activerecord-tips-1)
