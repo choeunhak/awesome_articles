@@ -32,3 +32,7 @@
 ### Ruby on Rails
 - [ActiveRecord - Part 1: N+1 Queries Problem](https://www.netguru.com/blog/activerecord-tips-1)
 
+
+## General
+### Git
+- [Handling Multiple Github Accounts on MacOS](https://gist.github.com/Jonalogy/54091c98946cfe4f8cdab2bea79430f9)
