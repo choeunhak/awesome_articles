@@ -12,7 +12,7 @@
 ### Java
 - [자바의 메모리 관리 방법! 가비지 컬렉션 (Garbage Collection) ](https://www.youtube.com/watch?v=jXF4qbZQnBc)
 - [자바 가상 머신(Java Virtual Machine)이란 무엇인가](https://asfirstalways.tistory.com/158)
-
+- [String Constant Pool](https://www.baeldung.com/java-string-pool)
 
 ## Data Engineering
 ### Spark
