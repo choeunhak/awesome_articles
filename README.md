@@ -8,6 +8,9 @@
 ### index
 - [B+Tree Insertions](https://www.youtube.com/watch?v=h6Mw7_S4ai0&list=PLsEFMZUL5KsOqKHhxquVleVkM9LFLFSo0&index=3)
 
+### partitioning
+- [Deep into partitioning databases](https://towardsdatascience.com/deep-into-partitioning-in-databases-b5e53197cae0)
+
 ## Language
 ### Java
 - [자바의 메모리 관리 방법! 가비지 컬렉션 (Garbage Collection) ](https://www.youtube.com/watch?v=jXF4qbZQnBc)
