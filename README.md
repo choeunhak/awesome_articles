@@ -11,6 +11,9 @@
 ### partitioning
 - [Deep into partitioning databases](https://towardsdatascience.com/deep-into-partitioning-in-databases-b5e53197cae0)
 
+### Normalization
+- [정규화(Normalization) 쉽게 이해하기](https://mangkyu.tistory.com/110)
+
 ## Language
 ### Java
 - [자바의 메모리 관리 방법! 가비지 컬렉션 (Garbage Collection) ](https://www.youtube.com/watch?v=jXF4qbZQnBc)
