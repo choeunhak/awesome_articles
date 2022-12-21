@@ -7,6 +7,9 @@
 - [MySQL DBA를 위한](https://mysqldba.tistory.com/)
 - [eduCBA](https://www.educba.com/)
 
+## Spark
+- [ynsoo1225 velog](https://velog.io/@ynsoo1225?tag=apache-spark)
+
 ## 공통
 - [조대협의 블로그](https://bcho.tistory.com/)
 - [토리맘 공식문서 번역자료](https://godekdls.github.io/)
