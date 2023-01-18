@@ -7,6 +7,8 @@
 - [MySQL DBA를 위한](https://mysqldba.tistory.com/)
 - [eduCBA](https://www.educba.com/)
 - [ENFJ.dev database](https://gngsn.tistory.com/category/Database?page=2)
+- [hoing.io](https://hoing.io/)
+
 ## Spark
 - [ynsoo1225 velog](https://velog.io/@ynsoo1225?tag=apache-spark)
 
