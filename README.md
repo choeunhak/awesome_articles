@@ -22,7 +22,7 @@
 - [Aurora vs RDS](https://sungwookkang.com/1487)
 
 ## Network
-- [osi 7 layers](https://onecoin-life.com/19)
+- [ 7 layers](https://onecoin-life.com/19)
 
 
 ## Language
