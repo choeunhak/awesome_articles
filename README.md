@@ -21,11 +21,16 @@
 ### AWS
 - [Aurora vs RDS](https://sungwookkang.com/1487)
 
+## Network
+- [osi 7 layers](https://onecoin-life.com/19)
+
+
 ## Language
 ### Java
 - [자바의 메모리 관리 방법! 가비지 컬렉션 (Garbage Collection) ](https://www.youtube.com/watch?v=jXF4qbZQnBc)
 - [자바 가상 머신(Java Virtual Machine)이란 무엇인가](https://asfirstalways.tistory.com/158)
 - [String Constant Pool](https://www.baeldung.com/java-string-pool)
+- [자바는 컴파일 언어일까 인터프리터 언어일까?](https://catch-me-java.tistory.com/m/11)
 
 ## Data Engineering
 ### Spark
