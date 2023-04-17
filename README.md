@@ -23,7 +23,7 @@
 
 ## Network
 - [OSI 7 layers](https://onecoin-life.com/19)
-
+- [[10분 테코톡] 👍 파즈의 OSI 7 Layer](https://www.youtube.com/watch?v=Fl_PSiIwtEo)
 
 ## Language
 ### Java
