@@ -65,3 +65,7 @@
 ## General
 ### Git
 - [Handling Multiple Github Accounts on MacOS](https://gist.github.com/Jonalogy/54091c98946cfe4f8cdab2bea79430f9)
+
+### Career
+- [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/ic4_data_engineer.html)
+
