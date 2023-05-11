@@ -1,5 +1,12 @@
 # 블로그
 
+## Data Engineering
+- [leeyh0216 devlog](https://leeyh0216.github.io/)
+- [데엔잘하고싶은데엔](https://pearlluck.tistory.com/)
+
+### Spark
+- [ynsoo1225 velog](https://velog.io/@ynsoo1225?tag=apache-spark)
+
 ## Spring
 - [Baeldung 스프링 관련 실습 자료](https://www.baeldung.com/)
 
@@ -9,8 +16,7 @@
 - [ENFJ.dev database](https://gngsn.tistory.com/category/Database?page=2)
 - [hoing.io](https://hoing.io/)
 
-## Spark
-- [ynsoo1225 velog](https://velog.io/@ynsoo1225?tag=apache-spark)
+
 
 ## 공통
 - [조대협의 블로그](https://bcho.tistory.com/)
