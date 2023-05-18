@@ -32,6 +32,9 @@
 - [String Constant Pool](https://www.baeldung.com/java-string-pool)
 - [자바는 컴파일 언어일까 인터프리터 언어일까?](https://catch-me-java.tistory.com/m/11)
 
+### Python
+- [Console output overhead: why is writing to stdout so slow?](https://medium.com/spencerweekly/console-output-overhead-why-is-writing-to-stdout-so-slow-b0cc7c88704c)
+
 ## Data Engineering
 ### Spark
 - [Spark의 메모리 관리(1)](https://medium.com/@leeyh0216/spark-internal-part-2-spark%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-1-c18e39af942e)
