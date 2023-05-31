@@ -18,8 +18,9 @@
 ### Normalization
 - [정규화(Normalization) 쉽게 이해하기](https://mangkyu.tistory.com/110)
 
-### AWS
+## AWS
 - [Aurora vs RDS](https://sungwookkang.com/1487)
+- [ALB, NLB](https://no-easy-dev.tistory.com/entry/AWS-ALB%EC%99%80-NLB-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 
 ## Network
 - [OSI 7 layers](https://onecoin-life.com/19)
