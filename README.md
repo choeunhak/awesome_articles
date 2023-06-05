@@ -25,6 +25,7 @@
 ## Network
 - [OSI 7 layers](https://onecoin-life.com/19)
 - [[10분 테코톡] 👍 파즈의 OSI 7 Layer](https://www.youtube.com/watch?v=Fl_PSiIwtEo)
+- [AWS — Difference between Application load balancer (ALB) and Network load balancer (NLB)](https://medium.com/awesome-cloud/aws-difference-between-application-load-balancer-and-network-load-balancer-cb8b6cd296a4)
 
 ## Language
 ### Java
