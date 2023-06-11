@@ -37,6 +37,7 @@
 
 ### Python
 - [Console output overhead: why is writing to stdout so slow?](https://medium.com/spencerweekly/console-output-overhead-why-is-writing-to-stdout-so-slow-b0cc7c88704c)
+- [파이썬 인터프리터 동작 방식](https://nopanderer.github.io/python/2021-09-08-interpreter/)
 
 ## Data Engineering
 ### Spark
