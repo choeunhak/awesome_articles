@@ -34,6 +34,7 @@
 - [자바 가상 머신(Java Virtual Machine)이란 무엇인가](https://asfirstalways.tistory.com/158)
 - [String Constant Pool](https://www.baeldung.com/java-string-pool)
 - [자바는 컴파일 언어일까 인터프리터 언어일까?](https://catch-me-java.tistory.com/m/11)
+- [What is the difference in Maven between dependency and plugin tags in pom.xml?](https://stackoverflow.com/questions/11881663/what-is-the-difference-in-maven-between-dependency-and-plugin-tags-in-pom-xml)
 
 ### Python
 - [Console output overhead: why is writing to stdout so slow?](https://medium.com/spencerweekly/console-output-overhead-why-is-writing-to-stdout-so-slow-b0cc7c88704c)
@@ -59,6 +60,7 @@
 
 ### SpringBoot
 - [@RequestBody, @ModelAttribute, @RequestParam의 차이](https://mangkyu.tistory.com/72)
+
 
 ## Cloud
 
