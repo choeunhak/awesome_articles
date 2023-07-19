@@ -63,6 +63,13 @@
 - [@RequestBody, @ModelAttribute, @RequestParam의 차이](https://mangkyu.tistory.com/72)
 
 
+## Frontend
+
+### 배포 최적화
+- [토스ㅣSLASH 22 - 잃어버린 개발자의 시간을 찾아서: 매일 하루를 아끼는 DevOps 이야기](https://www.youtube.com/watch?v=2IE68SDTYvI)
+- [https://static.toss.im/assets/homepage/slash22/pt-session/SLASH22_%EB%B0%95%EC%84%9C%EC%A7%84%EB%8B%98.pdf](https://static.toss.im/assets/homepage/slash22/pt-session/SLASH22_%EB%B0%95%EC%84%9C%EC%A7%84%EB%8B%98.pdf)
+
+
 ## Cloud
 
 ### Docker
