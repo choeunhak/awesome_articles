@@ -15,7 +15,8 @@
 - [eduCBA](https://www.educba.com/)
 - [ENFJ.dev database](https://gngsn.tistory.com/category/Database?page=2)
 - [hoing.io](https://hoing.io/)
-
+- [sory1008](https://m.blog.naver.com/PostList.naver?blogId=sory1008)
+- [percona blog](https://www.percona.com/blog/)
 
 
 ## 공통
