@@ -23,7 +23,7 @@
 - [ALB, NLB](https://no-easy-dev.tistory.com/entry/AWS-ALB%EC%99%80-NLB-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 - [AWS — Difference between Application load balancer (ALB) and Network load balancer (NLB)](https://medium.com/awesome-cloud/aws-difference-between-application-load-balancer-and-network-load-balancer-cb8b6cd296a4)
 - [만들면서 배우는 아마존 버추얼 프라이빗 클라우드(Amazon VPC)](https://www.44bits.io/ko/post/understanding_aws_vpc)
-
+- [AWS RDS 비용 줄이는 방법 (성능 개선 도우미)](https://blog.lovizu.com/entry/AWS-RDS-%EB%B9%84%EC%9A%A9-%EC%A4%84%EC%9D%B4%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EB%8F%84%EC%9A%B0%EB%AF%B8)
 
 ## Network
 - [OSI 7 layers](https://onecoin-life.com/19)
